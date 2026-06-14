@@ -64,6 +64,9 @@
     <loc>https://daisyui.com/blog/full-circle/</loc>
   </url>
   <url>
+    <loc>https://daisyui.com/blog/generate-ui-with-less-token/</loc>
+  </url>
+  <url>
     <loc>https://daisyui.com/blog/how-to-add-new-colors-to-daisyui/</loc>
   </url>
   <url>
@@ -478,7 +481,46 @@
     <loc>https://daisyui.com/docs/layout-and-typography/</loc>
   </url>
   <url>
+    <loc>https://daisyui.com/docs/mcp/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/antigravity/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/claude/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/claudecode/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/cline/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/codex/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/cursor/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/openclaw/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/opencode/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/vscode/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/windsurf/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/mcp/zed/</loc>
+  </url>
+  <url>
     <loc>https://daisyui.com/docs/roadmap/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/</loc>
   </url>
   <url>
     <loc>https://daisyui.com/docs/themes/</loc>
@@ -514,6 +556,15 @@
     <loc>https://daisyui.com/nuxt-component-library/</loc>
   </url>
   <url>
+    <loc>https://daisyui.com/pages/ai-frontend-code-generation/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/pages/ai-tailwind-code-generator/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/pages/ai-ui-code-generation/</loc>
+  </url>
+  <url>
     <loc>https://daisyui.com/pages/best-component-library-for-2026/</loc>
   </url>
   <url>
@@ -526,19 +577,43 @@
     <loc>https://daisyui.com/pages/css-library-for-html/</loc>
   </url>
   <url>
+    <loc>https://daisyui.com/pages/design-website-with-ai/</loc>
+  </url>
+  <url>
     <loc>https://daisyui.com/pages/easy-component-library/</loc>
   </url>
   <url>
     <loc>https://daisyui.com/pages/easy-css-library/</loc>
   </url>
   <url>
+    <loc>https://daisyui.com/pages/generate-ui-from-text/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/pages/generate-ui-with-claude/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/pages/generate-ui-with-codex/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/pages/generate-ui-with-llm/</loc>
+  </url>
+  <url>
     <loc>https://daisyui.com/pages/install-tailwind-css-vite/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/pages/llm-ui-generation/</loc>
   </url>
   <url>
     <loc>https://daisyui.com/pages/minimal-css-framework/</loc>
   </url>
   <url>
+    <loc>https://daisyui.com/pages/prompt-to-ui/</loc>
+  </url>
+  <url>
     <loc>https://daisyui.com/pages/scalable-component-library/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/pages/tailwind-agent/</loc>
   </url>
   <url>
     <loc>https://daisyui.com/pages/tailwind-css/</loc>
@@ -548,6 +623,9 @@
   </url>
   <url>
     <loc>https://daisyui.com/pages/tailwind-css-without-node/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/pages/tailwind-ui-components/</loc>
   </url>
   <url>
     <loc>https://daisyui.com/pages/ui-library-for-hackaton/</loc>
@@ -1040,6 +1118,33 @@
   </url>
   <url>
     <loc>https://daisyui.com/alternative/flux/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/copilot/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/claude-code/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/codex/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/cursor/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/opencode/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/openclaw/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/windsurf/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/gemini-cli/</loc>
+  </url>
+  <url>
+    <loc>https://daisyui.com/docs/skill/antigravity/</loc>
   </url>
 <url>
   <loc>https://daisyui.com/llms.txt</loc>
